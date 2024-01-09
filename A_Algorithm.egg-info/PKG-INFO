@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: A-Algorithm
+Version: 1
+Summary: A* Algorithm
+Home-page: 
+Author: Tom Hildebrand
+Author-email: thomas.hildebrand1@gmail.com
+Keywords: python pygame A*
+Classifier: Programming Language :: Python
+Requires-Dist: pygame
